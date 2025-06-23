@@ -8,3 +8,5 @@ Animasi hover pada web (desktop only) untuk tombol dan card pada web. untuk tomb
 
 untuk file project dapat diakses di github ini di branch master atau dapat mengakses link onedrive berikut:
 https://binusianorg-my.sharepoint.com/personal/jason_sunarto_binus_ac_id/_layouts/15/guestaccess.aspx?share=EavJPRKWt_xKh8X6fbBdYF4Bn9vZrpPdQTTR1i250XNVSg&e=TfryMP
+
+Terima kasih
